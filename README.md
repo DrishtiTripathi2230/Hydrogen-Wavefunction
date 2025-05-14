@@ -1,11 +1,11 @@
 # Hydrogen-Wavefunction 🌌  
 **Visualizing Hydrogen Electron Orbitals using Python**  
 
-## 📖 Description  
+# 📖 Description  
 This Python script visualizes the probability density of an electron in a hydrogen atom using quantum wavefunctions.  
 It calculates the wavefunction using **spherical harmonics** and **Laguerre polynomials** and plots a **3D electron probability density**.  
 
-## ✨ Features  
+#✨ Features  
 ✔ Supports different atomic orbitals (**s, p, d, f, etc.**)  
 ✔ Uses **spherical harmonics** for angular dependence  
 ✔ Uses **Laguerre polynomials** for radial wavefunction  
